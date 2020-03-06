@@ -5,7 +5,7 @@
 Gem::Specification.new do |s|
   s.authors = ['Jordon Bedwell']
   s.homepage = 'https://github.com/envygeeks/rubocop'
-  s.files = %w(Rakefile Gemfile README.md LICENSE .rubocop.yml rules.yml)
+  s.files = %w(Gemfile README.md LICENSE .rubocop.yml rules.yml)
   s.description = 'Shared Rubocop rules for EnvyGeeks'
   s.summary = 'EnvyGeeks rules for Rubocop'
   s.email = ['jordon@envygeeks.io']
