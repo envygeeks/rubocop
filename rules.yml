@@ -2,6 +2,7 @@ Layout/LineLength: { Enabled: false }
 Style/HashTransformKeys: { Enabled: true }
 Style/RescueStandardError: { Enabled: false }
 Layout/EmptyLinesAroundModuleBody: { Enabled: false }
+Layout/EmptyLineAfterGuardClause: { Enabled: false }
 Layout/EmptyLinesAroundClassBody: { Enabled: false }
 Layout/SpaceInsideBlockBraces: { Enabled: false }
 Style/HashTransformValues: { Enabled: true }
