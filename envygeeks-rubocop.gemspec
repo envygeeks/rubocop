@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.summary = 'EnvyGeeks rules for Rubocop'
   s.email = ['jordon@envygeeks.io']
   s.name = 'envygeeks-rubocop'
-  s.version = '0.92.0'
+  s.version = '92.0.0'
   s.license = 'ISC'
 
   s.required_ruby_version = '>= 2.6.0'
