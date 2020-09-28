@@ -1,11 +1,13 @@
 Layout/LineLength: { Enabled: false }
 Style/HashTransformKeys: { Enabled: true }
 Style/RescueStandardError: { Enabled: false }
+Style/OptionalBooleanParameter: { Enabled: false }
 Layout/EmptyLinesAroundModuleBody: { Enabled: false }
 Layout/EmptyLineAfterGuardClause: { Enabled: false }
 Layout/EmptyLinesAroundClassBody: { Enabled: false }
 Layout/SpaceInsideBlockBraces: { Enabled: false }
 Style/HashTransformValues: { Enabled: true }
+Style/AccessorGrouping: { Enabled: false }
 Style/HashEachMethods: { Enabled: true }
 Naming/FileName: { Enabled: false }
 Style/Documentation:
@@ -224,6 +226,7 @@ Style/RegexpLiteral:
   EnforcedStyle: percent_r
 #
 AllCops:
+  NewCops: enable
   TargetRubyVersion: 2.7
   Exclude:
     - examples/**/*
